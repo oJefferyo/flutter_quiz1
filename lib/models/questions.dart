@@ -92,4 +92,14 @@ const List<Question> questions = [
       'd) Poinsettia',
     ],
   ),
+  Question(
+    question: '10. What is the name of the famous Christmas ballet featuring a young girl and her nutcracker prince?',
+    correctAnswerIndex: 3,
+    options: [
+      'a) Swan Lake',
+      'b) Sleeping Beauty',
+      'c) Giselle',
+      'd) The Nutcracker',
+    ],
+  ),
 ];
